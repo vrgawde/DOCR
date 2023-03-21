@@ -28,7 +28,7 @@ dependencies:
   fancy_bottom_navigation: ^0.3.2
   http:
   flutter_spinkit: ^4.0.0
-  dio: ^3.0.3
+  dio: ">=3.0.3 <6.0.0"
 
 dev_dependencies:
   flutter_test:
